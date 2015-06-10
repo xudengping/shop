@@ -41,6 +41,16 @@ class UserModel extends Model{
          
     );
     
+    protected $_auto = array(
+        // 完成字段1,完成规则,[完成条件,附加规则]
+        
+        // 新增操作的时候自动填充当前时间
+        array('user_time','time',1,'function'),
+         
+        // 新增/更新操作的时候自动填充当前时间
+        array('last_time','time',3,'function'),
+    );
+    
      //自定义方法验证爱好信息
      //$name = $_POST['user_hobby']
     function check_hobby($name){

@@ -9,6 +9,22 @@ class UserController extends Controller {
       $this->display();
     }
     
+    //登陆
+    public function toLogin(){
+        $user = new \Model\UserModel();
+        if(!empty($_POST)){
+            $condition['username'] = $_POST['username'];
+            $condition['password'] = $_POST['password'];
+            $data = $user->where($condition)->find();
+           if($data){
+              // 登录到个人主页
+           }else{
+              // 返回登录页面
+               $this->error("用户名或者密码错误",U('User/login'));
+           }
+        }
+    }
+    
     // 跳转注册页面
     public function toRegister(){
       $this->display();
@@ -16,7 +32,6 @@ class UserController extends Controller {
     
     //用户注册
      function register(){
-        echo "register begin";
      
         $user = new \Model\UserModel();
         
@@ -25,6 +40,8 @@ class UserController extends Controller {
            if(!$user->create()){
               // 失败的信息
               show_bug($user->getError());
+              // 跳转到注册页面
+              $this->error('注册失败',U('User/toRegister'));
            }else{
               // 将user_hobby数组转变为以逗号分割的字符串
               $user->user_hobby = implode('',$_POST['user_hobby']);
@@ -32,9 +49,9 @@ class UserController extends Controller {
               $rst = $user -> add();
               
               if($rst){
-                  $this->success('注册成功',U('Index\index'));
+                  $this->success('注册成功',U('User/login'));
               }else{
-                  $this -> error('注册失败',U('Index/index'));
+                  $this -> error('注册失败',U('User/toRegister'));
               }
            }
         

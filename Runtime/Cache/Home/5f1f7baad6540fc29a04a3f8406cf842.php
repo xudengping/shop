@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta name="Generator" content="YONGDA v1.0" />
@@ -8,13 +8,13 @@
 
         <title>用户中心_YONGDA商城 - Powered by YongDa</title>
 
-        <link href="{$Think.const.CSS_URL}style.css" rel="stylesheet" type="text/css" />
+        <link href="<?php echo (CSS_URL); ?>style.css" rel="stylesheet" type="text/css" />
 
     </head>
     <body>
         <div class="block clearfix" style="position: relative; height: 98px;">
             <a href="#" name="top">
-                <img class="logo" src="{$Think.const.IMG_URL}logo.gif">
+                <img class="logo" src="<?php echo (IMG_URL); ?>logo.gif">
             </a>
 
 
@@ -56,7 +56,7 @@
 
             <form id="searchForm" method="get" >
                 <input name="keywords" id="keyword" type="text" />
-                <input name="imageField" value=" " class="go" style="cursor: pointer; background: url('{$Think.const.IMG_URL}sousuo.gif') no-repeat scroll 0% 0% transparent; width: 39px; height: 20px; border: medium none; float: left; margin-right: 15px; vertical-align: middle;" type="submit">
+                <input name="imageField" value=" " class="go" style="cursor: pointer; background: url('<?php echo (IMG_URL); ?>sousuo.gif') no-repeat scroll 0% 0% transparent; width: 39px; height: 20px; border: medium none; float: left; margin-right: 15px; vertical-align: middle;" type="submit">
 
             </form>
         </div>
@@ -64,16 +64,16 @@
 
         <div class="header_bg_b">
             <div class="f_l" style="padding-left: 10px;">
-                <img src="{$Think.const.IMG_URL}biao6.gif">
+                <img src="<?php echo (IMG_URL); ?>biao6.gif">
                     北京市区，现在下单(截至次日00:30已出库)，<b>明天上午(9-14点)</b>送达 <b>免运费火热进行中！</b>
             </div>
 
             <div class="f_r" style="padding-right: 10px;">
-                <img style="vertical-align: middle;" src="{$Think.const.IMG_URL}biao3.gif">
+                <img style="vertical-align: middle;" src="<?php echo (IMG_URL); ?>biao3.gif">
 
                     <span class="cart" id="ECS_CARTINFO">
                         <a href="#" title="查看购物车">您的购物车中有 0 件商品，总计金额 ￥0.00元。</a></span>
-                    <a href="#"><img style="vertical-align: middle;" src="{$Think.const.IMG_URL}biao7.gif"></a>
+                    <a href="#"><img style="vertical-align: middle;" src="<?php echo (IMG_URL); ?>biao7.gif"></a>
             </div>
         </div>
 
@@ -131,7 +131,7 @@
                         2. 收藏您关注的商品<br />
                         3. 享受会员积分制度<br />
                         4. 订阅本店商品信息  <br />
-                        <a href="#"><img src="{$Think.const.IMG_URL}bnt_ur_reg.gif"></a>
+                        <a href="#"><img src="<?php echo (IMG_URL); ?>bnt_ur_reg.gif"></a>
                     </div>
                 </div>
             </div>
@@ -139,7 +139,7 @@
             </div>
             <div class="blank"></div>
             <div class="block">
-                <a href="#" target="_blank" title="YONGDA商城"><img alt="YONGDA商城" src="{$Think.const.IMG_URL}di.jpg"></a>
+                <a href="#" target="_blank" title="YONGDA商城"><img alt="YONGDA商城" src="<?php echo (IMG_URL); ?>di.jpg"></a>
 
                 <div class="blank"></div>
             </div>
@@ -197,7 +197,7 @@
             <div id="bottomNav" class="box block">
                 <div class="box_1">
                     <div class="links clearfix"> 
-                        <a href="#" target="_blank" title="YONGDA商城"><img src="{$Think.const.IMG_URL}logo.gif" alt="YONGDA商城" border="0"></a>
+                        <a href="#" target="_blank" title="YONGDA商城"><img src="<?php echo (IMG_URL); ?>logo.gif" alt="YONGDA商城" border="0"></a>
 
 
                         [<a href="#" target="_blank" title="">yongda商城</a>]
