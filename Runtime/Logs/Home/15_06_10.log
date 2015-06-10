@@ -1,0 +1,15 @@
+[ 2015-06-10T17:08:49+08:00 ] 127.0.0.1 /shop/index.php/Home/User/toRegister.php
+ERR: 非法操作:toRegister.php
+
+[ 2015-06-10T17:09:27+08:00 ] 127.0.0.1 /shop/index.php/Home/User/toRegister.php
+ERR: 非法操作:toRegister.php
+
+[ 2015-06-10T17:09:31+08:00 ] 127.0.0.1 /shop/index.php/Home/User/toRegister.php
+ERR: 非法操作:toRegister.php
+
+[ 2015-06-10T17:09:43+08:00 ] 127.0.0.1 /shop/index.php/Home/User/css/style.css
+ERR: 非法操作:css
+
+[ 2015-06-10T17:12:51+08:00 ] 127.0.0.1 /shop/index.php/Home/User/%7BThink.const.CSS_URL%7Dstyle.css
+ERR: 非法操作:{Think.const.CSS_URL}style.css
+

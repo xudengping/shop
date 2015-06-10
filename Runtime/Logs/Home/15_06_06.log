@@ -1,0 +1,289 @@
+[ 2015-06-06T21:49:05+08:00 ] 127.0.0.1 /shop/index.php?s=/Home/User/login
+ERR: 模板不存在:D:/phpworkspace/shop/Home/View/User/login.html
+
+[ 2015-06-06T21:55:59+08:00 ] 127.0.0.1 /shop/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001989s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002748s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003705s ]
+
+[ 2015-06-06T21:56:13+08:00 ] 127.0.0.1 /shop/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000571s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000636s ]
+
+[ 2015-06-06T21:56:19+08:00 ] 127.0.0.1 /shop/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000578s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000645s ]
+
+[ 2015-06-06T21:56:28+08:00 ] 127.0.0.1 /shop/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2015-06-06T21:56:38+08:00 ] 127.0.0.1 /shop/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001221s ]
+
+[ 2015-06-06T22:29:35+08:00 ] 127.0.0.1 /shop/index.php/Home/User/userList
+ERR: 模板不存在:D:/phpworkspace/shop/Home/View/User/userList.html
+
+[ 2015-06-06T22:30:25+08:00 ] 127.0.0.1 /shop/index.php/Home/User/style/authority/basic_layout.css
+ERR: 非法操作:style
+
+[ 2015-06-06T22:30:25+08:00 ] 127.0.0.1 /shop/index.php/Home/User/scripts/fancybox/jquery.fancybox-1.3.4.js
+ERR: 非法操作:scripts
+
+[ 2015-06-06T22:30:25+08:00 ] 127.0.0.1 /shop/index.php/Home/User/style/authority/common_style.css
+ERR: 非法操作:style
+
+[ 2015-06-06T22:30:25+08:00 ] 127.0.0.1 /shop/index.php/Home/User/scripts/fancybox/jquery.fancybox-1.3.4.pack.js
+ERR: 非法操作:scripts
+
+[ 2015-06-06T22:30:25+08:00 ] 127.0.0.1 /shop/index.php/Home/User/style/authority/jquery.fancybox-1.3.4.css
+ERR: 非法操作:style
+
+[ 2015-06-06T22:30:25+08:00 ] 127.0.0.1 /shop/index.php/Home/User/scripts/artDialog/artDialog.js?skin=default
+ERR: 非法操作:scripts
+
+[ 2015-06-06T22:30:25+08:00 ] 127.0.0.1 /shop/index.php/Home/User/scripts/jquery/jquery-1.7.1.js
+ERR: 非法操作:scripts
+
+[ 2015-06-06T22:30:25+08:00 ] 127.0.0.1 /shop/index.php/Home/User/scripts/authority/commonAll.js
+ERR: 非法操作:scripts
+
+[ 2015-06-06T22:30:25+08:00 ] 127.0.0.1 /shop/index.php/Home/User/style/authority/basic_layout.css
+ERR: 非法操作:style
+
+[ 2015-06-06T22:30:25+08:00 ] 127.0.0.1 /shop/index.php/Home/User/style/authority/common_style.css
+ERR: 非法操作:style
+
+[ 2015-06-06T22:30:25+08:00 ] 127.0.0.1 /shop/index.php/Home/User/scripts/fancybox/jquery.fancybox-1.3.4.js
+ERR: 非法操作:scripts
+
+[ 2015-06-06T22:30:25+08:00 ] 127.0.0.1 /shop/index.php/Home/User/scripts/fancybox/jquery.fancybox-1.3.4.pack.js
+ERR: 非法操作:scripts
+
+[ 2015-06-06T22:30:25+08:00 ] 127.0.0.1 /shop/index.php/Home/User/style/authority/jquery.fancybox-1.3.4.css
+ERR: 非法操作:style
+
+[ 2015-06-06T22:30:25+08:00 ] 127.0.0.1 /shop/index.php/Home/User/scripts/artDialog/artDialog.js?skin=default
+ERR: 非法操作:scripts
+
+[ 2015-06-06T22:32:41+08:00 ] 127.0.0.1 /shop/index.php/Home/User/style/authority/basic_layout.css
+ERR: 非法操作:style
+
+[ 2015-06-06T22:32:41+08:00 ] 127.0.0.1 /shop/index.php/Home/User/style/authority/common_style.css
+ERR: 非法操作:style
+
+[ 2015-06-06T22:32:41+08:00 ] 127.0.0.1 /shop/index.php/Home/User/scripts/fancybox/jquery.fancybox-1.3.4.js
+ERR: 非法操作:scripts
+
+[ 2015-06-06T22:32:41+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/jquery/jquery-1.7.1.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:32:41+08:00 ] 127.0.0.1 /shop/index.php/Home/User/style/authority/jquery.fancybox-1.3.4.css
+ERR: 非法操作:style
+
+[ 2015-06-06T22:32:41+08:00 ] 127.0.0.1 /shop/index.php/Home/User/scripts/artDialog/artDialog.js?skin=default
+ERR: 非法操作:scripts
+
+[ 2015-06-06T22:32:41+08:00 ] 127.0.0.1 /shop/index.php/Home/User/scripts/authority/commonAll.js
+ERR: 非法操作:scripts
+
+[ 2015-06-06T22:32:41+08:00 ] 127.0.0.1 /shop/index.php/Home/User/scripts/fancybox/jquery.fancybox-1.3.4.pack.js
+ERR: 非法操作:scripts
+
+[ 2015-06-06T22:32:41+08:00 ] 127.0.0.1 /shop/index.php/Home/User/style/authority/basic_layout.css
+ERR: 非法操作:style
+
+[ 2015-06-06T22:32:41+08:00 ] 127.0.0.1 /shop/index.php/Home/User/style/authority/common_style.css
+ERR: 非法操作:style
+
+[ 2015-06-06T22:32:41+08:00 ] 127.0.0.1 /shop/index.php/Home/User/scripts/fancybox/jquery.fancybox-1.3.4.js
+ERR: 非法操作:scripts
+
+[ 2015-06-06T22:32:41+08:00 ] 127.0.0.1 /shop/index.php/Home/User/scripts/fancybox/jquery.fancybox-1.3.4.pack.js
+ERR: 非法操作:scripts
+
+[ 2015-06-06T22:32:41+08:00 ] 127.0.0.1 /shop/index.php/Home/User/style/authority/jquery.fancybox-1.3.4.css
+ERR: 非法操作:style
+
+[ 2015-06-06T22:32:41+08:00 ] 127.0.0.1 /shop/index.php/Home/User/scripts/artDialog/artDialog.js?skin=default
+ERR: 非法操作:scripts
+
+[ 2015-06-06T22:37:15+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/fancybox/jquery.fancybox-1.3.4.pack.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:15+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/common_style.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:15+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/jquery/jquery-1.7.1.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:15+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/jquery.fancybox-1.3.4.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:15+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/fancybox/jquery.fancybox-1.3.4.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:15+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/authority/commonAll.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:15+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/artDialog/artDialog.js?skin=default
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:15+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/basic_layout.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:15+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/common_style.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:15+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/fancybox/jquery.fancybox-1.3.4.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:15+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/fancybox/jquery.fancybox-1.3.4.pack.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:15+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/jquery.fancybox-1.3.4.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:15+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/artDialog/artDialog.js?skin=default
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:31+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/jquery/jquery-1.7.1.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:31+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/common_style.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:31+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/basic_layout.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:31+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/authority/commonAll.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:31+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/jquery.fancybox-1.3.4.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:31+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/fancybox/jquery.fancybox-1.3.4.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:31+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/artDialog/artDialog.js?skin=default
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:31+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/fancybox/jquery.fancybox-1.3.4.pack.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:31+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/jquery.fancybox-1.3.4.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:31+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/artDialog/artDialog.js?skin=default
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:47+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/jquery/jquery-1.7.1.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:47+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/basic_layout.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:47+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/authority/commonAll.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:47+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/jquery.fancybox-1.3.4.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:47+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/fancybox/jquery.fancybox-1.3.4.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:47+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/artDialog/artDialog.js?skin=default
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:47+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/fancybox/jquery.fancybox-1.3.4.pack.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:47+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/common_style.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:47+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/jquery.fancybox-1.3.4.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:37:47+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/artDialog/artDialog.js?skin=default
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:38:21+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/basic_layout.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:38:21+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/jquery/jquery-1.7.1.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:38:21+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/fancybox/jquery.fancybox-1.3.4.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:38:21+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/fancybox/jquery.fancybox-1.3.4.pack.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:38:21+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/artDialog/artDialog.js?skin=default
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:38:21+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/jquery.fancybox-1.3.4.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:38:21+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/authority/commonAll.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:38:21+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/common_style.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:38:21+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/common_style.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:38:21+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/basic_layout.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:38:21+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/authority/commonAll.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:38:22+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/fancybox/jquery.fancybox-1.3.4.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:38:22+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/fancybox/jquery.fancybox-1.3.4.pack.js
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:38:22+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/css/authority/jquery.fancybox-1.3.4.css
+ERR: 非法操作:shop
+
+[ 2015-06-06T22:38:22+08:00 ] 127.0.0.1 /shop/index.php/Home/User/shop/public/js/artDialog/artDialog.js?skin=default
+ERR: 非法操作:shop
+

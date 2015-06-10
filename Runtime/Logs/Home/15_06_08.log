@@ -1,0 +1,12 @@
+[ 2015-06-08T09:56:00+08:00 ] 127.0.0.1 /shop/index.php/Home/Goods/add
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'thumb' doesn't have a default value
+
+[ 2015-06-08T10:11:47+08:00 ] 127.0.0.1 /shop/index.php/Home/Goods/add
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'brief' doesn't have a default value
+
+[ 2015-06-08T10:12:54+08:00 ] 127.0.0.1 /shop/index.php/Home/Goods/add
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'keyword' doesn't have a default value
+
+[ 2015-06-08T14:58:57+08:00 ] 127.0.0.1 /shop/index.php/Home/Goods/house_list.html?page=2
+ERR: 非法操作:house_list
+
